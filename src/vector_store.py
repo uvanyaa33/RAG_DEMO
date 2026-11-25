@@ -33,6 +33,6 @@ collection.upsert(
     embeddings=embeddings
 )
 
-print("Documents stored successfully in ChromaDB!")
+print("Documents stored successfully in ChromaDB!!!")
 
 print("Total stored chunks:", collection.count())
